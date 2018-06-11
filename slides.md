@@ -2,32 +2,30 @@
 
 ## Was ist WikiCite?
 
-* Kontext: Wikipedia, **Wikidata**, Wikisource...
-
-![](img/wikicite-item.png)
-
-
-## Ziele von WikiCite
-
 * Freie bibliographische Datenbank in Wikidata
     * Bibliographische Metadaten
+      * selbstständige + unselbständige Werke
     * Zitationsdaten
-
-* Selbstständige + unselbständiger Werke + Beziehungen
     * Kollaborative Katalogisierung (Social Cataloging)
     * offene Daten (CC0)
 
 
 ## Umfang
 
-* **Publikationen**: 19 Millionen Wikidata-Einträgen (39%)
-* **Zitationen**: 46 Millionen Zitationen in Wikidata (10%)
+* **Publikationen**: 19 Millionen Wikidata-Einträgen
+* **Zitationen**: 46 Millionen Zitationen in Wikidata
+
+<!--2,3 Mio Medieneinheiten UB Mannheim-->
+<!--BASE hat 127 Mio-->
+
+<!--39% von Wikidata-Einträgen insgesamt sind Publikationen, 10% aller Aussagen in Wikidata sind Zitationen -->
 
 [![WikiCite Statistik](img/wikicite-stats-annotated.png){height=70%}](http://wikicite.org/statistics.html)
 
+
 ## Motivation für Wikipedia
 
-* Aussagen mit Belegen versehen, z.B.
+* Aussagen mit Belegen versehen, z. B.
 
 ![](img/Wikipedia-Belege.png)
 
@@ -41,7 +39,7 @@
 ## Motivation für Wikidata
 
 * Fakten in Wikidata mit Fundstellen belegen,\
-  z.B. höchster Punkt in Berlin
+z.&nbsp;B. höchster Punkt in Berlin
 
 [![](img/fundstelle-wikidata-berlin.jpg)](https://www.wikidata.org/wiki/Q64#P610)
 
@@ -107,7 +105,7 @@ Direkte Bearbeitung auf Wikidata oder...
 
 ## Qualitätssicherung
 
-* Eigene Beobachtungslist für Wikidata-Einträge\
+* Eigene Beobachtungsliste für Wikidata-Einträge\
   mit Benachrichtigung bei Änderungen
 
 * Einschränkungen von Werten von Eigenschaften
@@ -157,9 +155,9 @@ Direkte Bearbeitung auf Wikidata oder...
 
 ## Ideen für Katalogisierungstools
 
-* Können Ansätze zur Datenerfassen in Wikidata auch für die Katalogisierung
+* Können Ansätze zum Datenerfassen in Wikidata auch für die Katalogisierung
   in Bibliotheken übernommen werden?
-* Sind nicht auch stärker Tools zur Batch-Bearbeitungen gefragt?
+* Sind nicht auch stärker Tools für Batch-Bearbeitungen gefragt?
 * Was ist mit Kontroll- und Prüftools?
 
 
@@ -167,7 +165,7 @@ Direkte Bearbeitung auf Wikidata oder...
 
 * Aufsatzkatalogisierung
     * Thema für Bibliotheken? FIDs?
-    * WikiCite zeigt auf, dass es möglich ist
+    * WikiCite zeigt auf, dass es möglich ist.
 * Katalogisierung von Zitationen
     * Können Bibliotheken zu offenen Zitationsdaten beitragen?
     * Zitationsdaten in Verbundkatalog speichern?
