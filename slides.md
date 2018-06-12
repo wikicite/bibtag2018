@@ -2,6 +2,7 @@
 
 ## Was ist WikiCite?
 
+* Projekt im Umfeld von Wikipedia, Wikidata, ...
 * Freie bibliographische Datenbank in Wikidata
     * Bibliographische Metadaten
       * selbstständige + unselbständige Werke
@@ -94,7 +95,7 @@ z.&nbsp;B. höchster Punkt in Berlin
 
 ## Tools zur Bearbeitung
 
-Direkte Bearbeitung auf Wikidata oder...
+\Large Direkte Bearbeitung auf Wikidata oder...
 
 * **sourceMD/fatameh** Import anhand DOI/PMID
 * **zotkat** Import aus Zotero (Literaturverwaltung)
@@ -169,7 +170,8 @@ Direkte Bearbeitung auf Wikidata oder...
 * Katalogisierung von Zitationen
     * Können Bibliotheken zu offenen Zitationsdaten beitragen?
     * Zitationsdaten in Verbundkatalog speichern?
-    * Linked Open Citation Database (LOC-DB): [Clip](https://www.youtube.com/watch?v=k8ST-bX4BKs)
+    * Linked Open Citation Database (LOC-DB)\
+      Clip: <https://www.youtube.com/watch?v=k8ST-bX4BKs>
 
 
 # Fragen / Diskussion / Antworten ?
