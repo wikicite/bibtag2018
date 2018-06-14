@@ -24,7 +24,8 @@ WikiCite ; cataloguing of articles ; citation data ; open data ; collaboration
 
 ## Präsentationsfolien
 
-[PDF](slides.pdf)
+* BIB Opus Server: [urn:nbn:de:0290-opus4-36538](https://nbn-resolving.org/urn:nbn:de:0290-opus4-36538)
+* Direkt hier in GitHub: [PDF](slides.pdf)
 
 ## Lizenz
 
